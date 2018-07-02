@@ -1,0 +1,14 @@
+{
+  "name": "electron-wpf",
+  "version": "1.0.0",
+  "description": "hello my name is electron monti",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Monti",
+  "license": "Call 911",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
